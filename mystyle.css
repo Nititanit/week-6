@@ -1,0 +1,10 @@
+body {
+    background-image: url(imgs/wp.jpg);
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+h1{
+    color: antiquewhite;
+}
